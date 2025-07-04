@@ -3,7 +3,7 @@
 ## First Normal Form (1NF)
 
 - Ensured each table has a primary key
-- Each column contains atomic (indivisible) values
+- Each column contains atomic values
 - No repeating groups or arrays in any row
 
 ✅ Example: In the `User` table, name and email are stored in separate columns.
